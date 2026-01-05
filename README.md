@@ -58,7 +58,7 @@ The platform supports the following objectives:
 
  <img src="https://github.com/atsuvovor/retail-credit-risk-platform/blob/main/images/retail_redit_risk_architecture.png" 
        alt="Cyber Threat Detection Engine" 
-       style="width: 80%; height: 100%;">
+       style="width: 100%; height: 100%;">
 
 </div>
 
