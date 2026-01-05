@@ -2,8 +2,8 @@
 
 **AIRB / IFRS9 | End-to-End Modeling to Executive Dashboards**
 
----
 
+**Author: Atsu Vovor**
 ## 📌 Overview
 
 This repository implements a **full end-to-end retail credit risk modeling platform**, designed to reflect **real-world banking practices** for **AIRB and IFRS9** environments.
@@ -21,7 +21,7 @@ This project is intentionally designed to demonstrate **manager-level ownership*
 
 Dashboards are **the final artifact**, not the starting point.
 
----
+
 
 ## 🎯 Business Objectives
 
@@ -38,7 +38,7 @@ The platform supports the following objectives:
   * Compliance & Audit
 * Deliver **Power BI / Tableau-ready datasets** for executive reporting
 
----
+
 
 ## 🧠 Key Concepts Implemented
 
@@ -50,7 +50,7 @@ The platform supports the following objectives:
 * Stress-ready forecasting logic
 * Explainable, regulator-friendly models
 
----
+
 
 ## 🏗 Architecture (High-Level)
 
@@ -63,11 +63,11 @@ The platform supports the following objectives:
 </div>
 
 
----
+
 
 ## 📂 Repository Structure
 
-```
+
 retail-credit-risk-platform/
 │
 ├── data/
@@ -99,7 +99,7 @@ retail-credit-risk-platform/
 └── README.md
 ```
 
----
+
 
 ## 📊 Data Generation
 
@@ -124,7 +124,7 @@ Because real bank data cannot be shared, this project uses **synthetic data with
 
 The generated dataset behaves like **real retail portfolios** and supports meaningful modeling, validation, and forecasting.
 
----
+
 
 ## 🧪 Data Quality & Stability
 
@@ -137,7 +137,7 @@ Before any modeling:
 
 This reflects **regulatory expectations** that **modeling cannot proceed without data quality assurance**.
 
----
+
 
 ## 🧠 Model Development
 
@@ -159,7 +159,7 @@ This reflects **regulatory expectations** that **modeling cannot proceed without
 
 > **Design choice**: Simple, stable, and explainable models are preferred over black-box approaches in regulatory environments.
 
----
+
 
 ## 📈 Forecasting & Loss Estimation
 
@@ -179,7 +179,7 @@ The forecasting layer is intentionally modular to support:
 * Macroeconomic overlays
 * Scenario comparisons
 
----
+
 
 ## 🧾 Integrated BI Dataset (Critical Deliverable)
 
@@ -204,7 +204,7 @@ This dataset can be **plugged directly into**:
 * Excel
 * Enterprise reporting tools
 
----
+
 
 ## 📊 Dashboards (Streamlit MVP)
 
@@ -217,7 +217,7 @@ The Streamlit app demonstrates:
 
 > In production, this layer would be replaced or complemented by Power BI / Tableau using the same dataset.
 
----
+
 
 ## 🛡 Governance Philosophy
 
@@ -231,7 +231,7 @@ This project is built with a **governance-first mindset**:
 
 Governance is treated as **an engineering requirement**, not an afterthought.
 
----
+
 
 ## 🚀 How to Run Locally
 
@@ -268,7 +268,7 @@ streamlit run streamlit_app/Home.py
 
 
 
----
+
 
 ## 📌 Disclaimer
 
@@ -276,7 +276,7 @@ streamlit run streamlit_app/Home.py
 * No customer or proprietary bank data is used
 * The project is for **demonstration and educational purposes only**
 
----
+
 
 ## ⭐ Final Note
 
