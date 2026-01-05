@@ -1,14 +1,3 @@
-Below is a **detailed, interview- and regulator-ready `README.md`** you can place at the root of the repository.
-It is written to satisfy **three audiences simultaneously**:
-
-1. **Hiring Managers / Directors (Scotiabank)**
-2. **Model Validation / Audit / Compliance**
-3. **Technical reviewers (Python / Data / ML)**
-
-You can copy this **verbatim**.
-
----
-
 # 🏦 Retail Credit Risk Forecasting & Governance Platform
 
 **AIRB / IFRS9 | End-to-End Modeling to Executive Dashboards**
