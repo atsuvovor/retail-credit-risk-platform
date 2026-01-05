@@ -1,6 +1,13 @@
-# 🏦 Retail Credit Risk Forecasting & Governance Platform
+<div align="center">
+  <h2>🏦 Retail Credit Risk Forecasting & Governance Platform</h2>
+ <img src="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_detection_engine4.png" 
+       alt="Cyber Threat Detection Engine" 
+       style="width: 600px; height: 40%;">
 
 **AIRB / IFRS9 | End-to-End Modeling to Executive Dashboards**
+
+</div>
+
 
 
 **Author: Atsu Vovor**
@@ -67,7 +74,7 @@ The platform supports the following objectives:
 
 ## 📂 Repository Structure
 
-
+```
 retail-credit-risk-platform/
 │
 ├── data/
