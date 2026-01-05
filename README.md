@@ -2,7 +2,7 @@
   <h2>🏦 Retail Credit Risk Forecasting & Governance Platform</h2>
  <img src="https://github.com/atsuvovor/retail-credit-risk-platform/blob/main/images/retail_redit_risk_architecture_pipeline.png" 
        alt="Cyber Threat Detection Engine" 
-       style="width: 600px; height: 40%;">
+       style="width: 800px; height: 40%;">
 
 **AIRB / IFRS9 | End-to-End Modeling to Executive Dashboards**
 
