@@ -1,6 +1,6 @@
 <div align="center">
   <h2>🏦 Retail Credit Risk Forecasting & Governance Platform</h2>
- <img src="https://github.com/atsuvovor/CyberThreat_Insight/blob/main/images/cyber_threat_detection_engine4.png" 
+ <img src="https://github.com/atsuvovor/retail-credit-risk-platform/blob/main/images/retail_redit_risk_architecture_pipeline.png" 
        alt="Cyber Threat Detection Engine" 
        style="width: 600px; height: 40%;">
 
