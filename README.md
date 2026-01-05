@@ -58,30 +58,10 @@ The platform supports the following objectives:
 
  <img src="https://github.com/atsuvovor/retail-credit-risk-platform/blob/main/images/retail_redit_risk_architecture.png" 
        alt="Cyber Threat Detection Engine" 
-       style="width: 600px; height: 40%;">
+       style="width: 80%; height: 100%;">
 
 </div>
-```
-Raw Credit Data (Synthetic but Realistic)
-        │
-        ▼
-Data Quality & Stability Checks
-        │
-        ▼
-Feature Engineering (Retail / SMB)
-        │
-        ▼
-PD / LGD / EAD Models
-        │
-        ▼
-Forecasting & Capital Impact
-        │
-        ▼
-Integrated BI Dataset
-        │
-        ▼
-Streamlit / Power BI / Tableau Dashboards
-```
+
 
 ---
 
